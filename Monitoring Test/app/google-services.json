@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "344506862821",
+    "firebase_url": "https://smartgh-ae7aa-default-rtdb.firebaseio.com",
+    "project_id": "smartgh-ae7aa",
+    "storage_bucket": "smartgh-ae7aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344506862821:android:c77985445669198c7e980c",
+        "android_client_info": {
+          "package_name": "com.test.iotmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJEQkgXIgM3ybo8egDJGOvGzNumy9Ozk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
